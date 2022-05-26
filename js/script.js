@@ -35,7 +35,7 @@ const hitunganMundur = setInterval(function () {
 								menit1.innerText = '--';
 								detik1.innerText = '--';
 								text1.innerText = "Selamat";
-								text2.innerText = "Tahun Baru 2022!!";
+								text2.innerText = "Tahun Baru 2023!!";
 								$('#clear').removeClass("tombol");
 								$('#clear').addClass("active");
 				};
