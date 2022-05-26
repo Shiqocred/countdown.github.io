@@ -1,4 +1,4 @@
-var countDate = new Date('jan 01 2022 00:00:00').getTime();
+var countDate = new Date('jan 01 2023 00:00:00').getTime();
 
 const hitunganMundur = setInterval(function () {
 				var now = new Date().getTime();
